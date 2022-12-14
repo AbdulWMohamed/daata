@@ -1,0 +1,46 @@
+borough,total,market,affordable
+Barking and Dagenham,320,230,80
+Barnet,1870,1720,140
+Bexley,410,350,70
+Brent,1270,1070,190
+Bromley,660,620,30
+Camden,860,720,140
+City of London,120,120,0
+Croydon,1930,1670,260
+Ealing,1080,950,130
+Enfield,510,400,100
+Greenwich,770,560,200
+Hackney,1130,960,170
+Hammersmith and Fulham,760,660,110
+Haringey,810,680,140
+Harrow,630,620,10
+Havering,430,390,40
+Hillingdon,750,690,60
+Hounslow,1050,820,230
+Islington,520,410,120
+Kensington and Chelsea,220,180,30
+Kingston upon Thames,330,300,30
+Lambeth,990,800,190
+Lewisham,1230,910,310
+Merton,450,400,50
+Newham,1410,1330,80
+Redbridge,590,510,80
+Richmond upon Thames,390,340,50
+Southwark,1990,1610,380
+Sutton,500,480,20
+Tower Hamlets,1730,1310,420
+Waltham Forest,690,500,190
+Wandsworth,1500,1320,180
+Westminster,1100,990,110
+,,,
+"Note: The average net completions (new units minus demolished units) of housing over a three-year period. 
+Averaging over this period helps to account for significant fluctations in completions over time. 
+The 'Affordable, social and other discouted' category includes social, affordable and intermediate rented housing and other discounted properties such as starter homes. 
+More information is available in the csv document. The London Plan has annual target for the number of homes Planning Authorities should complete each year. 
+For most of London, the boroughs act as Planning Authority. The London Legacy Development Corporation is the Planning Authority for the area surrounding the 
+Olympic Park in East London. The Old Oak Park Royal Development Corporation is a newly-created body that will serve at the Planning Authority for the area around 
+Old Oak Common in West London.",,,
+"Data source: The London Plan Annual Monitoring Report, GLA via London Datastore",,,
+Chart source: London's Poverty Profile 2021,,,
+"London's Poverty Profile is created by charitable funder, Trust for London, and economic and public policy consultancy, WPI Economics",,,
+http://www.trustforlondon.org.uk/data,,,
