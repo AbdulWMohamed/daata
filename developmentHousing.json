@@ -1,0 +1,772 @@
+[
+ {
+   "year": 2000,
+   "houseType": "Terraced",
+   "averagePrice": "78,000"
+ },
+ {
+   "year": 2001,
+   "houseType": "Terraced",
+   "averagePrice": "87,000"
+ },
+ {
+   "year": 2002,
+   "houseType": "Terraced",
+   "averagePrice": "99,000"
+ },
+ {
+   "year": 2003,
+   "houseType": "Terraced",
+   "averagePrice": "121,000"
+ },
+ {
+   "year": 2004,
+   "houseType": "Terraced",
+   "averagePrice": "143,000"
+ },
+ {
+   "year": 2005,
+   "houseType": "Terraced",
+   "averagePrice": "153,000"
+ },
+ {
+   "year": 2006,
+   "houseType": "Terraced",
+   "averagePrice": "164,000"
+ },
+ {
+   "year": 2007,
+   "houseType": "Terraced",
+   "averagePrice": "181,000"
+ },
+ {
+   "year": 2008,
+   "houseType": "Terraced",
+   "averagePrice": "182,000"
+ },
+ {
+   "year": 2009,
+   "houseType": "Terraced",
+   "averagePrice": "180,000"
+ },
+ {
+   "year": 2010,
+   "houseType": "Terraced",
+   "averagePrice": "201,000"
+ },
+ {
+   "year": 2011,
+   "houseType": "Terraced",
+   "averagePrice": "195,000"
+ },
+ {
+   "year": 2012,
+   "houseType": "Terraced",
+   "averagePrice": "199,000"
+ },
+ {
+   "year": 2013,
+   "houseType": "Terraced",
+   "averagePrice": "207,000"
+ },
+ {
+   "year": 2014,
+   "houseType": "Terraced",
+   "averagePrice": "223,000"
+ },
+ {
+   "year": 2015,
+   "houseType": "Terraced",
+   "averagePrice": "234,000"
+ },
+ {
+   "year": 2016,
+   "houseType": "Terraced",
+   "averagePrice": "235,000"
+ },
+ {
+   "year": 2017,
+   "houseType": "Terraced",
+   "averagePrice": "227,000"
+ },
+ {
+   "year": 2018,
+   "houseType": "Terraced",
+   "averagePrice": "230,000"
+ },
+ {
+   "year": 2019,
+   "houseType": "Terraced",
+   "averagePrice": "228,000"
+ },
+ {
+   "year": 2020,
+   "houseType": "Terraced",
+   "averagePrice": "248,000"
+ },
+ {
+   "year": 2021,
+   "houseType": "Terraced",
+   "averagePrice": "264,000"
+ },
+ {
+   "year": 2000,
+   "houseType": "Flat or maisonette in converted house",
+   "averagePrice": "108,000"
+ },
+ {
+   "year": 2001,
+   "houseType": "Flat or maisonette in converted house",
+   "averagePrice": "121,000"
+ },
+ {
+   "year": 2002,
+   "houseType": "Flat or maisonette in converted house",
+   "averagePrice": "149,000"
+ },
+ {
+   "year": 2003,
+   "houseType": "Flat or maisonette in converted house",
+   "averagePrice": "165,000"
+ },
+ {
+   "year": 2004,
+   "houseType": "Flat or maisonette in converted house",
+   "averagePrice": "165,000"
+ },
+ {
+   "year": 2005,
+   "houseType": "Flat or maisonette in converted house",
+   "averagePrice": "156,000"
+ },
+ {
+   "year": 2006,
+   "houseType": "Flat or maisonette in converted house",
+   "averagePrice": "160,000"
+ },
+ {
+   "year": 2007,
+   "houseType": "Flat or maisonette in converted house",
+   "averagePrice": "181,000"
+ },
+ {
+   "year": 2008,
+   "houseType": "Flat or maisonette in converted house",
+   "averagePrice": "180,000"
+ },
+ {
+   "year": 2009,
+   "houseType": "Flat or maisonette in converted house",
+   "averagePrice": "171,000"
+ },
+ {
+   "year": 2010,
+   "houseType": "Flat or maisonette in converted house",
+   "averagePrice": "202,000"
+ },
+ {
+   "year": 2011,
+   "houseType": "Flat or maisonette in converted house",
+   "averagePrice": "201,000"
+ },
+ {
+   "year": 2012,
+   "houseType": "Flat or maisonette in converted house",
+   "averagePrice": "222,000"
+ },
+ {
+   "year": 2013,
+   "houseType": "Flat or maisonette in converted house",
+   "averagePrice": "253,000"
+ },
+ {
+   "year": 2014,
+   "houseType": "Flat or maisonette in converted house",
+   "averagePrice": "281,000"
+ },
+ {
+   "year": 2015,
+   "houseType": "Flat or maisonette in converted house",
+   "averagePrice": "276,000"
+ },
+ {
+   "year": 2016,
+   "houseType": "Flat or maisonette in converted house",
+   "averagePrice": "271,000"
+ },
+ {
+   "year": 2017,
+   "houseType": "Flat or maisonette in converted house",
+   "averagePrice": "239,000"
+ },
+ {
+   "year": 2018,
+   "houseType": "Flat or maisonette in converted house",
+   "averagePrice": "244,000"
+ },
+ {
+   "year": 2019,
+   "houseType": "Flat or maisonette in converted house",
+   "averagePrice": "239,000"
+ },
+ {
+   "year": 2020,
+   "houseType": "Flat or maisonette in converted house",
+   "averagePrice": "260,000"
+ },
+ {
+   "year": 2021,
+   "houseType": "Flat or maisonette in converted house",
+   "averagePrice": "274,000"
+ },
+ {
+   "year": 2000,
+   "houseType": "Semi-detached",
+   "averagePrice": "88,000"
+ },
+ {
+   "year": 2001,
+   "houseType": "Semi-detached",
+   "averagePrice": "99,000"
+ },
+ {
+   "year": 2002,
+   "houseType": "Semi-detached",
+   "averagePrice": "113,000"
+ },
+ {
+   "year": 2003,
+   "houseType": "Semi-detached",
+   "averagePrice": "139,000"
+ },
+ {
+   "year": 2004,
+   "houseType": "Semi-detached",
+   "averagePrice": "162,000"
+ },
+ {
+   "year": 2005,
+   "houseType": "Semi-detached",
+   "averagePrice": "176,000"
+ },
+ {
+   "year": 2006,
+   "houseType": "Semi-detached",
+   "averagePrice": "190,000"
+ },
+ {
+   "year": 2007,
+   "houseType": "Semi-detached",
+   "averagePrice": "206,000"
+ },
+ {
+   "year": 2008,
+   "houseType": "Semi-detached",
+   "averagePrice": "207,000"
+ },
+ {
+   "year": 2009,
+   "houseType": "Semi-detached",
+   "averagePrice": "201,000"
+ },
+ {
+   "year": 2010,
+   "houseType": "Semi-detached",
+   "averagePrice": "222,000"
+ },
+ {
+   "year": 2011,
+   "houseType": "Semi-detached",
+   "averagePrice": "215,000"
+ },
+ {
+   "year": 2012,
+   "houseType": "Semi-detached",
+   "averagePrice": "214,000"
+ },
+ {
+   "year": 2013,
+   "houseType": "Semi-detached",
+   "averagePrice": "221,000"
+ },
+ {
+   "year": 2014,
+   "houseType": "Semi-detached",
+   "averagePrice": "234,000"
+ },
+ {
+   "year": 2015,
+   "houseType": "Semi-detached",
+   "averagePrice": "237,000"
+ },
+ {
+   "year": 2016,
+   "houseType": "Semi-detached",
+   "averagePrice": "242,000"
+ },
+ {
+   "year": 2017,
+   "houseType": "Semi-detached",
+   "averagePrice": "241,000"
+ },
+ {
+   "year": 2018,
+   "houseType": "Semi-detached",
+   "averagePrice": "245,000"
+ },
+ {
+   "year": 2019,
+   "houseType": "Semi-detached",
+   "averagePrice": "245,000"
+ },
+ {
+   "year": 2020,
+   "houseType": "Semi-detached",
+   "averagePrice": "261,000"
+ },
+ {
+   "year": 2021,
+   "houseType": "Semi-detached",
+   "averagePrice": "279,000"
+ },
+ {
+   "year": 2000,
+   "houseType": "Purpose-built flat or maisonette",
+   "averagePrice": "82,000"
+ },
+ {
+   "year": 2001,
+   "houseType": "Purpose-built flat or maisonette",
+   "averagePrice": "90,000"
+ },
+ {
+   "year": 2002,
+   "houseType": "Purpose-built flat or maisonette",
+   "averagePrice": "103,000"
+ },
+ {
+   "year": 2003,
+   "houseType": "Purpose-built flat or maisonette",
+   "averagePrice": "126,000"
+ },
+ {
+   "year": 2004,
+   "houseType": "Purpose-built flat or maisonette",
+   "averagePrice": "149,000"
+ },
+ {
+   "year": 2005,
+   "houseType": "Purpose-built flat or maisonette",
+   "averagePrice": "159,000"
+ },
+ {
+   "year": 2006,
+   "houseType": "Purpose-built flat or maisonette",
+   "averagePrice": "172,000"
+ },
+ {
+   "year": 2007,
+   "houseType": "Purpose-built flat or maisonette",
+   "averagePrice": "186,000"
+ },
+ {
+   "year": 2008,
+   "houseType": "Purpose-built flat or maisonette",
+   "averagePrice": "178,000"
+ },
+ {
+   "year": 2009,
+   "houseType": "Purpose-built flat or maisonette",
+   "averagePrice": "180,000"
+ },
+ {
+   "year": 2010,
+   "houseType": "Purpose-built flat or maisonette",
+   "averagePrice": "202,000"
+ },
+ {
+   "year": 2011,
+   "houseType": "Purpose-built flat or maisonette",
+   "averagePrice": "209,000"
+ },
+ {
+   "year": 2012,
+   "houseType": "Purpose-built flat or maisonette",
+   "averagePrice": "210,000"
+ },
+ {
+   "year": 2013,
+   "houseType": "Purpose-built flat or maisonette",
+   "averagePrice": "210,000"
+ },
+ {
+   "year": 2014,
+   "houseType": "Purpose-built flat or maisonette",
+   "averagePrice": "231,000"
+ },
+ {
+   "year": 2015,
+   "houseType": "Purpose-built flat or maisonette",
+   "averagePrice": "246,000"
+ },
+ {
+   "year": 2016,
+   "houseType": "Purpose-built flat or maisonette",
+   "averagePrice": "254,000"
+ },
+ {
+   "year": 2017,
+   "houseType": "Purpose-built flat or maisonette",
+   "averagePrice": "267,000"
+ },
+ {
+   "year": 2018,
+   "houseType": "Purpose-built flat or maisonette",
+   "averagePrice": "264,000"
+ },
+ {
+   "year": 2019,
+   "houseType": "Purpose-built flat or maisonette",
+   "averagePrice": "258,000"
+ },
+ {
+   "year": 2020,
+   "houseType": "Purpose-built flat or maisonette",
+   "averagePrice": "269,000"
+ },
+ {
+   "year": 2021,
+   "houseType": "Purpose-built flat or maisonette",
+   "averagePrice": "271,000"
+ },
+ {
+   "year": 2000,
+   "houseType": "Bungalow",
+   "averagePrice": "103,000"
+ },
+ {
+   "year": 2001,
+   "houseType": "Bungalow",
+   "averagePrice": "113,000"
+ },
+ {
+   "year": 2002,
+   "houseType": "Bungalow",
+   "averagePrice": "138,000"
+ },
+ {
+   "year": 2003,
+   "houseType": "Bungalow",
+   "averagePrice": "164,000"
+ },
+ {
+   "year": 2004,
+   "houseType": "Bungalow",
+   "averagePrice": "189,000"
+ },
+ {
+   "year": 2005,
+   "houseType": "Bungalow",
+   "averagePrice": "203,000"
+ },
+ {
+   "year": 2006,
+   "houseType": "Bungalow",
+   "averagePrice": "219,000"
+ },
+ {
+   "year": 2007,
+   "houseType": "Bungalow",
+   "averagePrice": "237,000"
+ },
+ {
+   "year": 2008,
+   "houseType": "Bungalow",
+   "averagePrice": "231,000"
+ },
+ {
+   "year": 2009,
+   "houseType": "Bungalow",
+   "averagePrice": "216,000"
+ },
+ {
+   "year": 2010,
+   "houseType": "Bungalow",
+   "averagePrice": "233,000"
+ },
+ {
+   "year": 2011,
+   "houseType": "Bungalow",
+   "averagePrice": "221,000"
+ },
+ {
+   "year": 2012,
+   "houseType": "Bungalow",
+   "averagePrice": "221,000"
+ },
+ {
+   "year": 2013,
+   "houseType": "Bungalow",
+   "averagePrice": "226,000"
+ },
+ {
+   "year": 2014,
+   "houseType": "Bungalow",
+   "averagePrice": "244,000"
+ },
+ {
+   "year": 2015,
+   "houseType": "Bungalow",
+   "averagePrice": "252,000"
+ },
+ {
+   "year": 2016,
+   "houseType": "Bungalow",
+   "averagePrice": "260,000"
+ },
+ {
+   "year": 2017,
+   "houseType": "Bungalow",
+   "averagePrice": "265,000"
+ },
+ {
+   "year": 2018,
+   "houseType": "Bungalow",
+   "averagePrice": "268,000"
+ },
+ {
+   "year": 2019,
+   "houseType": "Bungalow",
+   "averagePrice": "271,000"
+ },
+ {
+   "year": 2020,
+   "houseType": "Bungalow",
+   "averagePrice": "288,000"
+ },
+ {
+   "year": 2021,
+   "houseType": "Bungalow",
+   "averagePrice": "314,000"
+ },
+ {
+   "year": 2000,
+   "houseType": "All dwellings",
+   "averagePrice": "102,000"
+ },
+ {
+   "year": 2001,
+   "houseType": "All dwellings",
+   "averagePrice": "113,000"
+ },
+ {
+   "year": 2002,
+   "houseType": "All dwellings",
+   "averagePrice": "128,000"
+ },
+ {
+   "year": 2003,
+   "houseType": "All dwellings",
+   "averagePrice": "156,000"
+ },
+ {
+   "year": 2004,
+   "houseType": "All dwellings",
+   "averagePrice": "180,000"
+ },
+ {
+   "year": 2005,
+   "houseType": "All dwellings",
+   "averagePrice": "191,000"
+ },
+ {
+   "year": 2006,
+   "houseType": "All dwellings",
+   "averagePrice": "205,000"
+ },
+ {
+   "year": 2007,
+   "houseType": "All dwellings",
+   "averagePrice": "223,000"
+ },
+ {
+   "year": 2008,
+   "houseType": "All dwellings",
+   "averagePrice": "228,000"
+ },
+ {
+   "year": 2009,
+   "houseType": "All dwellings",
+   "averagePrice": "226,000"
+ },
+ {
+   "year": 2010,
+   "houseType": "All dwellings",
+   "averagePrice": "251,000"
+ },
+ {
+   "year": 2011,
+   "houseType": "All dwellings",
+   "averagePrice": "245,000"
+ },
+ {
+   "year": 2012,
+   "houseType": "All dwellings",
+   "averagePrice": "246,000"
+ },
+ {
+   "year": 2013,
+   "houseType": "All dwellings",
+   "averagePrice": "251,000"
+ },
+ {
+   "year": 2014,
+   "houseType": "All dwellings",
+   "averagePrice": "267,000"
+ },
+ {
+   "year": 2015,
+   "houseType": "All dwellings",
+   "averagePrice": "277,000"
+ },
+ {
+   "year": 2016,
+   "houseType": "All dwellings",
+   "averagePrice": "283,000"
+ },
+ {
+   "year": 2017,
+   "houseType": "All dwellings",
+   "averagePrice": "280,000"
+ },
+ {
+   "year": 2018,
+   "houseType": "All dwellings",
+   "averagePrice": "283,000"
+ },
+ {
+   "year": 2019,
+   "houseType": "All dwellings",
+   "averagePrice": "282,000"
+ },
+ {
+   "year": 2020,
+   "houseType": "All dwellings",
+   "averagePrice": "303,000"
+ },
+ {
+   "year": 2021,
+   "houseType": "All dwellings",
+   "averagePrice": "324,000"
+ },
+ {
+   "year": 2000,
+   "houseType": "Detached",
+   "averagePrice": "155,000"
+ },
+ {
+   "year": 2001,
+   "houseType": "Detached",
+   "averagePrice": "173,000"
+ },
+ {
+   "year": 2002,
+   "houseType": "Detached",
+   "averagePrice": "202,000"
+ },
+ {
+   "year": 2003,
+   "houseType": "Detached",
+   "averagePrice": "250,000"
+ },
+ {
+   "year": 2004,
+   "houseType": "Detached",
+   "averagePrice": "281,000"
+ },
+ {
+   "year": 2005,
+   "houseType": "Detached",
+   "averagePrice": "299,000"
+ },
+ {
+   "year": 2006,
+   "houseType": "Detached",
+   "averagePrice": "312,000"
+ },
+ {
+   "year": 2007,
+   "houseType": "Detached",
+   "averagePrice": "339,000"
+ },
+ {
+   "year": 2008,
+   "houseType": "Detached",
+   "averagePrice": "350,000"
+ },
+ {
+   "year": 2009,
+   "houseType": "Detached",
+   "averagePrice": "334,000"
+ },
+ {
+   "year": 2010,
+   "houseType": "Detached",
+   "averagePrice": "363,000"
+ },
+ {
+   "year": 2011,
+   "houseType": "Detached",
+   "averagePrice": "357,000"
+ },
+ {
+   "year": 2012,
+   "houseType": "Detached",
+   "averagePrice": "351,000"
+ },
+ {
+   "year": 2013,
+   "houseType": "Detached",
+   "averagePrice": "347,000"
+ },
+ {
+   "year": 2014,
+   "houseType": "Detached",
+   "averagePrice": "366,000"
+ },
+ {
+   "year": 2015,
+   "houseType": "Detached",
+   "averagePrice": "379,000"
+ },
+ {
+   "year": 2016,
+   "houseType": "Detached",
+   "averagePrice": "390,000"
+ },
+ {
+   "year": 2017,
+   "houseType": "Detached",
+   "averagePrice": "390,000"
+ },
+ {
+   "year": 2018,
+   "houseType": "Detached",
+   "averagePrice": "396,000"
+ },
+ {
+   "year": 2019,
+   "houseType": "Detached",
+   "averagePrice": "399,000"
+ },
+ {
+   "year": 2020,
+   "houseType": "Detached",
+   "averagePrice": "426,000"
+ },
+ {
+   "year": 2021,
+   "houseType": "Detached",
+   "averagePrice": "462,000"
+ }
+]
